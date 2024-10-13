@@ -1,7 +1,11 @@
+
+# Things I ignored.  Hopefully doesn't affect the project.  Un-ignore files as needed.
 **/*.ui
-*.gen/
 *.runs/
+*.sim/
+*.gen/
 *.bak
+*.xsa
 
 # gitignore template for Xilinx Vivado Design Suite
 # website: https://www.xilinx.com/support/download.html
